@@ -1,5 +1,5 @@
 function Home(){
-  return <h1>Oi meu amor! Te amo minha Koalinha! </h1>
+  return <h1>Te amo minha Koalinha! </h1>
 
 }
 
